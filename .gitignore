@@ -1,0 +1,9 @@
+# External originals downloaded separately from the deposited collection.
+downloaded-originals/
+__pycache__/
+
+# Large topic ZIPs are generated from the committed, individually named files.
+/research/02-Statutes-and-rules.zip
+/research/05-Comparative-sources.zip
+# Older local delivery name; the canonical PLAC PDF is in research/pdfs/.
+/research/PLAC-Constitution-through-Fifth.pdf

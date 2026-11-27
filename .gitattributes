@@ -1,0 +1,11 @@
+# Source bytes are inventoried by SHA-256. Preserve original line endings on checkout.
+research/01-constitution/** -text -whitespace
+research/02-statutes/** -text -whitespace
+research/03-cases/** -text -whitespace
+research/04-history/** -text -whitespace
+research/05-records/** -text -whitespace
+research/06-reports/** -text -whitespace
+research/07-peers/** -text -whitespace
+*.pdf binary
+*.zip binary
+*.xlsx binary
